@@ -44,8 +44,6 @@
 
 ---
 
----
-
 ## 💻 Tech Stack
 
 ### Programming Languages
