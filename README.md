@@ -44,6 +44,37 @@
 
 ---
 
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🌍 Wanderlust
